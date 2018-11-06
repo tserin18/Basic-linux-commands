@@ -32,9 +32,9 @@ Check for identical files on two different folders.
 
 Install jdk and run a basic Hello world program.
 
-###### Installed and setup environment variable
-###### Downloaded latest jdk 1.8.0_91
-###### Set an environment variable in .bash_profile [JAVA_HOME=$(/usr/libexec/java_home)]
-###### Reloaded .bash_profile using "source ~/.bash_profile command" in terminal
-###### Wrote a basic program to output Hello World!!
-###### Run the program using terminal
+###### 1. Downloaded latest jdk 1.8.0_91
+###### 2. Installed and setup environment variable
+###### 3. Set an environment variable in .bash_profile [JAVA_HOME=$(/usr/libexec/java_home)]
+###### 4. Reloaded .bash_profile using "source ~/.bash_profile command" in terminal
+###### 5. Wrote a basic program to output Hello World!!
+###### 6. Run the program using terminal
